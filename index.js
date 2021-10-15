@@ -189,7 +189,20 @@ function CuboidMaker(proportions){
   Create an object called cuboid that uses the new keyword to use our CuboidMaker constructor
   Add properties and values of length: 4, width: 5, and height: 5 to cuboid. */
 
-
+  // CuboidMaker.prototype.cuboid = function(){
+  //   return (this.length = 4, this.width = 5, this.height = 5);
+  // }
+  
+  // class CuboidMaker{
+  //   constructor(proportions){
+  //     this.length = proportions.length;
+  //     this.width = proportions.width;
+  //     this.height =  proportions.height;
+  //   }
+  //   cuboid(){
+  //     return (this.length = 4, this.width = 5, this.height = 5);
+  //   }
+  // }
 
 
 
